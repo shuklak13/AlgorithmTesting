@@ -1,0 +1,1 @@
+To test a sorting function, replace the `sort` function in `test_sort.py` with your own. Then, run `test_sort.py`.
